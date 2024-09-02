@@ -35,6 +35,8 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
+<img align="left" alt="AfterEffects" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" />
+
 
 <br />
 <br />
