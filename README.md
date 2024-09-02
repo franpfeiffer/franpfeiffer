@@ -2,7 +2,7 @@
 
 ### <h1> Francisco Pfeiffer 🦀</h1>
 
-**`Full-Stack Developer | Graphic Designer`**
+**` Full-Stack Software Engineer | Graphic Designer `**
 
 I'm a full-stack developer and graphic designer who is enthusiastic about creating from the ground up digital experiences. With the help of technologies like React, TypeScript, and TailwindCSS, I oversee all part of my projects, from conception and design to development and implementation. I've created e-commerce platforms and responsive websites with success, guaranteeing a smooth and interesting user experience. Whether I'm developing online apps or visual material, my methodology combines problem-solving with an acute sense of design. Through my web portfolio, I showcase my commitment to meaningfully fusing technology and art by sharing my journey and ideas.
 
@@ -22,6 +22,8 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<br />
+<br />
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -32,6 +34,10 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
+
+<br />
+<br />
 <br />
 <br />
 
