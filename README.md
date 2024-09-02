@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franpfeiffer&label=Profile%20views&color=fd81a5&style=flat" alt="franpfeiffer" /> </p>
-# Francisco Pfeiffer
+
+### <h1> Francisco Pfeiffer </h1>
 
 **`Full-Stack Developer | Graphic Designer`**
 
