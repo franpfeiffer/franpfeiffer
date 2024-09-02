@@ -24,5 +24,8 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franpfeiffer&show_icons=true&theme=rose_pine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://franciscopfeiffer.vercel.app/
 [twitter]: https://x.com/frapfeiffer/
