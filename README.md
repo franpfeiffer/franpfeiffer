@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franpfeiffer&label=Profile%20views&color=fd81a5&style=flat" alt="franpfeiffer" /> </p>
 
-### <h1> Francisco Pfeiffer </h1>
+### <h1> Francisco Pfeiffer 🦀</h1>
 
 **`Full-Stack Developer | Graphic Designer`**
 
@@ -8,9 +8,15 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 
 ---
 
-### 🧰 Languages and Tools
+### 💪🏻 Languages and Tools 🦀
 
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"/>
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -22,7 +28,10 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" />
+<img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <br />
 <br />
 
