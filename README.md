@@ -24,11 +24,8 @@ I'm a full-stack developer and graphic designer who is enthusiastic about creati
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br />
-<br />
 
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franpfeiffer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=rose_pine" alt="Francisco's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franpfeiffer&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Francisco's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&hide_border=true" /></a>
 
 [website]: https://franciscopfeiffer.vercel.app/
 [twitter]: https://x.com/frapfeiffer/
