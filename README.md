@@ -2,7 +2,7 @@
 
 ### <h1> Francisco Pfeiffer 🦀</h1>
 
-**` Full-Stack Software Engineer | Graphic Designer `**
+**` Full-Stack Developer | Graphic Designer `**
 
 I'm a full-stack developer and graphic designer who is enthusiastic about creating from the ground up digital experiences. With the help of technologies like React, TypeScript, and TailwindCSS, I oversee all part of my projects, from conception and design to development and implementation. I've created e-commerce platforms and responsive websites with success, guaranteeing a smooth and interesting user experience. Whether I'm developing online apps or visual material, my methodology combines problem-solving with an acute sense of design. Through my web portfolio, I showcase my commitment to meaningfully fusing technology and art by sharing my journey and ideas.
 
