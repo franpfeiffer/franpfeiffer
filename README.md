@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franpfeiffer&label=Profile%20views&color=FF66CC&style=flat" alt="franpfeiffer" /> </p>
 
 <h1 align="center">Hi 👋, I'm Fran</h1>
-<h3 align="center">A full-stack software developer</h3>
+<h3 align="left">A full-stack software developer</h3>
 
 - 🔭 I’m currently working at [Gaucho Digital](https://www.gaucho.digital/)
 
