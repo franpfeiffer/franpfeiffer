@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,jquery,arch,bash,docker,firebase,git,go,graphql,htmx,linux,lua,neovim,nextjs,nodejs,php,laravel,postgres,py,react,selenium,tailwind,java,aws,express,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,jquery,git,go,docker,selenium,arch,bash,firebase,graphql,htmx,linux,lua,neovim,nextjs,nodejs,php,laravel,postgres,py,react,tailwind,java,aws,express,figma,)](https://skillicons.dev)
 
 ---
 
