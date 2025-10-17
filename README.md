@@ -29,4 +29,4 @@
 
 
 [website]: https://pfeifferf.com/
-[twitter]: https://x.com/frapfeiffer/
+[twitter]: https://x.com/04frn/
