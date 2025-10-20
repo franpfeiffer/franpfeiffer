@@ -15,7 +15,7 @@ Fun Facts
   * [twitter](https://x.com/04frn), [linkedin](https://www.linkedin.com/in/franciscopfeiffer/), [email](mailto:pfeifferfran02@gmail.com)
 
 ### Main tools
-[![My Skills](https://skillicons.dev/icons?i=ts,go,docker,lua,py,react,neovim,arch,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,docker,lua,py,react,neovim,linux,cloudflare)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats</summary>
