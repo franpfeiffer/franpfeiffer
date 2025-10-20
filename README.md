@@ -1,32 +1,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franpfeiffer&label=Profile%20views&color=FF66CC&style=flat" alt="franpfeiffer" /> </p>
+### Francisco Pfeiffer
 
-<h1 align="center">Hi 👋, I'm Fran</h1>
-<h3 align="left">A full-stack software developer</h3>
+Just a guy who likes to build stuff, mma stuff, tailored enviroments and a bunch
+of other stuff I'm always down to chat about.
 
-- 🔭 I’m currently working at [Gaucho Digital](https://www.gaucho.digital/)
+Fun Facts
+* I use arch, btw
+* I use neovim, btw
+* I like to build stuff
+* I work at [Gaucho Digital](https://www.gaucho.digital/)
+* This is my website [pfeifferf.com](https://pfeifferf.com/)
 
-- 🌱 I’m currently doing the **Google Cybersecurity Course**
+# Main tools
+[![My Skills](https://skillicons.dev/icons?i=ts,go,docker,lua,py,react,neovim,arch,cloudflare)](https://skillicons.dev)
 
-- 👨‍💻 All of my projects are available at [https://pfeifferf.com/](https://pfeifferf.com/)
+<details>
+  <summary>Github Stats</summary>
 
-- 💬 Ask me about **vim, linux and games**
-
-- 📫 How to reach me **pfeifferfran02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/04frn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="04frn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/franciscopfeiffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscopfeiffer" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,jquery,git,go,docker,selenium,arch,bash,firebase,graphql,htmx,linux,lua,neovim,nextjs,nodejs,php,laravel,postgres,py,react,tailwind,java,aws,express,figma,)](https://skillicons.dev)
-
----
-
-<a href="https://github-readme-stats.vercel.app/api?username=franpfeiffer&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franpfeiffer&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Francisco's github stats" /></a>     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&hide_border=true" /></a>
-
-
-[website]: https://pfeifferf.com/
-[twitter]: https://x.com/04frn/
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=franpfeiffer&theme=rose_pine&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&count_private=true&hide_border=true)</a>
+</details>
