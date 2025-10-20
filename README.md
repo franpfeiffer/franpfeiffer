@@ -12,7 +12,7 @@ Fun Facts
 * I work at [Gaucho Digital](https://www.gaucho.digital/)
 * This is my website [pfeifferf.com](https://pfeifferf.com/)
 
-# Main tools
+### Main tools
 [![My Skills](https://skillicons.dev/icons?i=ts,go,docker,lua,py,react,neovim,arch,cloudflare)](https://skillicons.dev)
 
 <details>
