@@ -11,6 +11,8 @@ Fun Facts
 * I like to build stuff
 * I work at [Gaucho Digital](https://www.gaucho.digital/)
 * This is my website [pfeifferf.com](https://pfeifferf.com/)
+* Ways to contact me:
+  * [twitter](https://x.com/04frn), [linkedin](https://www.linkedin.com/in/franciscopfeiffer/), [email](mailto:pfeifferfran02@gmail.com)
 
 ### Main tools
 [![My Skills](https://skillicons.dev/icons?i=ts,go,docker,lua,py,react,neovim,arch,cloudflare)](https://skillicons.dev)
