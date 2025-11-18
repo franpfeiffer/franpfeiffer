@@ -9,7 +9,7 @@ Fun Facts
 * I use arch, btw
 * I use neovim, btw
 * I like to build stuff
-* I work at [Gaucho Digital](https://www.gaucho.digital/)
+* I work at [Elit](https://www.elit.com.ar/)
 * This is my website [pfeifferf.com](https://pfeifferf.com/)
 * Ways to contact me:
   * [twitter](https://x.com/04frn), [linkedin](https://www.linkedin.com/in/franciscopfeiffer/), [email](mailto:pfeifferfran02@gmail.com)
