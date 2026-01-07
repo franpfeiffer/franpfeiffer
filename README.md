@@ -20,6 +20,6 @@ Fun Facts
 <details>
   <summary>Github Stats</summary>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=franpfeiffer&theme=rose_pine&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats-lac-nu-32.vercel.app/api?username=franpfeiffer&theme=rose_pine&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats-lac-nu-32.vercel.app/api/top-langs/?username=franpfeiffer&layout=compact&theme=rose_pine&count_private=true&hide_border=true)</a>
 </details>
