@@ -2,14 +2,14 @@
 
 ### Francisco Pfeiffer
 
-Just a guy who likes to build stuff, mma stuff, tailored enviroments and a bunch
+Just a guy who likes to build stuff, mma, oss and a bunch
 of other stuff I'm always down to chat about.
 
 Fun Facts
 * I use arch, btw
 * I use neovim, btw
 * I like to build stuff
-* I work at [Elit](https://www.elit.com.ar/)
+* I work @ [Elit](https://www.elit.com.ar/) & [CERP](https://cerp.es/)
 * This is my website [pfeifferf.com](https://pfeifferf.com/)
 * Ways to contact me:
   * [twitter](https://x.com/04frn), [linkedin](https://www.linkedin.com/in/franciscopfeiffer/), [email](mailto:pfeifferfran02@gmail.com)
