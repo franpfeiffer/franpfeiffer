@@ -2,7 +2,7 @@
 
 ### Francisco Pfeiffer
 
-Just a guy who likes to build stuff, mma, oss and a bunch
+Just a guy who likes to build stuff, mma, poker, oss and a bunch
 of other stuff I'm always down to chat about.
 
 Fun Facts
