@@ -8,7 +8,7 @@ of other stuff I'm always down to chat about.
 Fun Facts
 * I use arch, btw
 * I use neovim, btw
-* I like to build stuff
+* I like to build stuff... btw
 * I work @ [Elit](https://www.elit.com.ar/)
 * This is my website [pfeifferf.com](https://pfeifferf.com/)
 * Ways to contact me:
