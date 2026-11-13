@@ -12,7 +12,7 @@ Fun Facts
 * I work @ [Elit](https://www.elit.com.ar/)
 * This is my website [pfeifferf.com](https://pfeifferf.com/)
 * Ways to contact me:
-  * [twitter](https://x.com/04frn), [linkedin](https://www.linkedin.com/in/franciscopfeiffer/), [email](mailto:pfeifferfran02@gmail.com)
+  * [twitter](https://x.com/04frn), [linkedin](https://www.linkedin.com/in/franciscopfeiffer/), [email](mailto:fran@pfeifferf.com)
 
 ### Main tools
 [![My Skills](https://skillicons.dev/icons?i=go,docker,ts,react,lua,py,neovim,linux,rust)](https://skillicons.dev)
